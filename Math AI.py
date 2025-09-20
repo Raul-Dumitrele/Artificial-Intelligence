@@ -166,7 +166,7 @@ agent_openai = initialize_agent(
 )
 
 # ==========================
-# TEST FUNCTIONS (PĂSTRATE DIN CODUL ORIGINAL)
+# TEST FUNCTIONS 
 # ==========================
 
 def run_original_tests():
@@ -411,4 +411,5 @@ def main():
     print("🎯 ALL ORIGINAL TESTS PRESERVED AND EXECUTED")
 
 if __name__ == "__main__":
+
     main()
