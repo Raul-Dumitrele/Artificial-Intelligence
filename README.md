@@ -34,15 +34,7 @@ Open a Pull Request
 from math_ai import math_agent
 response = math_agent.invoke({"messages": [("human", "Add 10, 20, 30")]})
 print(response)
-## Deployment
 
-Clone repository: git clone https://github.com/utilizator/math-ai.git
-
-Install dependencies: pip install -r requirements.txt
-
-Set OpenAI key: export OPENAI_API_KEY="api-key"
-
-Run: python main.py
 ## Documentation
 
 All functions and agents are documented with docstrings and code examples.
@@ -64,3 +56,4 @@ It is ignored and the calculation continues with the remaining valid numbers.
 ## Authon Name:
 
 [Raul Dumitrele](https://github.com/Raul-Dumitrele)
+
