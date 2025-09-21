@@ -13,6 +13,7 @@ import json
 # CONFIGURATION
 # ==========================
 os.environ["OPENAI_API_KEY"] = "api-key"
+# get your key from https://platform.openai.com/account/api-keys
 
 llm = ChatOpenAI(model="gpt-4.1-mini", temperature=0)
 llm_ai = ChatOpenAI(model="gpt-4.1-nano")
@@ -413,3 +414,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
