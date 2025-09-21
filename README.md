@@ -118,11 +118,6 @@ Contribuțiile sunt binevenite—fie că vrei să adaugi tool-uri, să îmbunăt
 
 ---
 
-## 📜 Licență
-
-Acest proiect este sub licența **MIT**. Vezi fișierul [LICENSE](LICENSE) pentru detalii.
-
----
 
 ## 📌 Coduri recomandate (FAQ)
 
@@ -137,3 +132,9 @@ Acest proiect este sub licența **MIT**. Vezi fișierul [LICENSE](LICENSE) pentr
 ## ⭐ Dacă îți place proiectul
 
 Lasă un ⭐ pe GitHub — ajută proiectul să fie vizibil!
+
+---
+
+## Authon Name:
+
+[Raul Dumitrele](https://github.com/Raul-Dumitrele)
