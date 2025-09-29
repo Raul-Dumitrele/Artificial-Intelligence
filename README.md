@@ -88,7 +88,6 @@ Artificial-Intelligence/
 ├── Math AI.py           # implementarea principală
 ├── MathAI v1.py         # versiune veche / variantă
 ├── requirements.txt     # biblioteci / dependențe
-├── main.py              # punctul de intrare / testare
 └── README.md            # acest fișier
 ```
 
