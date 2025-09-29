@@ -1,7 +1,6 @@
 # 🧮 Artificial Intelligence – Math & Knowledge Assistant
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/Raul-Dumitrele/Artificial-Intelligence/ci.yml?branch=main)](https://github.com/Raul-Dumitrele/Artificial-Intelligence/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)
@@ -66,7 +65,7 @@ os.environ["OPENAI_API_KEY"] = "YOUR_API_KEY_HERE"
 ### Teste
 
 ```bash
-python main.py
+python Math AI.py
 ```
 
 Ar trebui să vezi output‑uri care confirmă că tool‑urile sunt funcționale (adunare, scădere, Wikipedia, etc.), și validări că erorile (ex. împărțire la zero) sunt gestionate.
